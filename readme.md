@@ -12,4 +12,4 @@ You need to figure out how to navigate this place. Write out the absolute and (i
 
 -----
 
-The data has been visualized in the attached `index.html` file. A matching directory tree is contained in the `dmv.zip` file. Open it and use your console to test your answers!
+The data has been visualized in the attached `index.html` file, viewable at https://ga-dc.github.io/dc_directory_tree. A matching directory tree is contained in the `dmv.zip` file. Open it and use your console to test your answers!
