@@ -5,10 +5,11 @@ Oh noes! The NSA has gone too far in trying to reduce the whole nation to a bunc
 You need to figure out how to navigate this place. Write out the absolute and (if applicable) relative paths you would use to go...
 
 1. to Lincoln
-2. from Lincoln to Chad
-3. from Chad to Arielle
-4. from Arielle to Nadia
-5. from Nadia to Rachel
+- from Lincoln to Chad
+- from Chad to Arielle.
+- from Arielle to Nadia
+- from Nadia to Rachel
+- from Rachel to Paul
 
 -----
 
