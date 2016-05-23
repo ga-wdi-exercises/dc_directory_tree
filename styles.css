@@ -25,7 +25,8 @@ html
 body
 {
   font-family: monospace;
-  font-size:20px;
+	font-size:16px;
+  line-height:25px;
   text-align:center;
 }
 body>*
@@ -36,15 +37,16 @@ body>*
   height:100%;
   text-align:left;
 }
-pre
-{
-	font-size:16px;
-  line-height:25px;
-}
 li
 {
   list-style-position:inside;
-  padding-bottom:40px;
-  border-bottom:1px dotted black;
   margin-top:20px;
+}
+textarea{
+	display:block;
+	width:100%;
+	resize:none;
+	height:40px;
+	line-height:36px;
+	border-bottom:1px dotted black;
 }
